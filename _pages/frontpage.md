@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Engineering Electrochemical Systems 
+title: Our Research 
 list_title: News
 ---
 
