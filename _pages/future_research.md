@@ -13,7 +13,7 @@ Through a multi-scale approach, we focus on enabling microbes and biomolecules a
 #### **Engineering Protein Electrochemistry** 
 <img src="./assets/imgs/fesprot.png" width="800px">
 
-##### **By tuning protein electrochemistry, we can building molecular links between electrodes and cells**
+##### **By tuning protein electrochemistry, we can build molecular links between electrodes and cells**
 
 Our first research direction aims to engineer the electrochemical properties of proteins.
 These bio-macromolecules perform catalytic reactions central to metabolism, help maintain cell health, enable cell-to-cell communication, movement, and more.
