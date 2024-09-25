@@ -33,5 +33,6 @@ A description of future directions planned for my independent research group can
 
 #### *Designing Systems to Integrate an Electrochemical Activation with a Thermochemical Reaction*
 
+
 [**Miu, EV**. (2023). *Metal Oxides for Hydrogen Activation and Sustainable Chemical Conversions: Chapter 5 - Activating Hydrogen Equivalents from Water and Delivering Them to Reactive Substrates* (Doctoral Dissertation, University of Pittsburgh).](http://d-scholarship.pitt.edu/45068/)
 
