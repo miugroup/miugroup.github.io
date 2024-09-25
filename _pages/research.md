@@ -5,25 +5,35 @@ title: Research
 ---
 
 #### **Overview**
-I am broadly interested in the behavior of reactive systems, viewed through the lens of electrochemistry.
+My research interests lie at the intersection of electrochemistry, catalysis, applied mathematics, and sustainability.
+Taking a wholly interdisciplinary approach to science, I have found that the synthesis of multiple, competing perspectives often leads to the most compelling solutions to difficult technical problems.
+In this spirit, my research makes an intentional effort to unify quantitative theory and modeling with rigorous experimentation.
+I have so far pointed this combined approach at issues related to sustainability, as described below.
+
+Below are three areas of research that I pursued during my PhD,.
+Works published in these areas can be found on my [Google Scholar](https://scholar.google.com/citations?user=lvfsM9wAAAAJ&hl=en) page.
+A description of future research directions planned for my independent research group can be found on the [Future Research](future-research) tab.
+
+###  **Quantifying the Electrochemical Sensitivity of Catalysis**
+<img src="./assets/imgs/jacs.png" width="800px">
+
+##### ***Unifying macroscale experimental measurements with quantum theory***
+[**Miu, EV**, McKone, JR, & Mpourmpakis, G. (2022). The sensitivity of metal oxide electrocatalysis to bulk hydrogen intercalation: hydrogen evolution on tungsten oxide. *Journal of the American Chemical Society*, *144*(14), 6420-6433.](https://pubs.acs.org/doi/full/10.1021/jacs.2c00825)
+*Featured as a JACS cover*
 
 
-Below is a brief description of three areas of research that I pursued during my PhD, as well as a comment on my current postdoctoral work.
-A description of future research directions can be found on the [Future Research](future-research) tab.
 
-#### **1. Quantifying the Electrochemical Sensitivity of Metal Oxides**
-*Unifying first-principles calculations and macroscale experimental measurements*
+### **Graph Theoretical Representations of Atomic Structure**
+<img src="./assets/imgs/prl.png" width="800px">
 
+##### ***Accelerating Property Evaluation by Combining Scales of Geometry***
 
+[**Miu, EV**, McKone, JR, & Mpourmpakis, G. (2023). Global and local connectivities describe hydrogen intercalation in metal oxides. *Physical Review Letters*, *131*(10), 108001.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.108001)
+*Featured in* [Physics](https://physics.aps.org/articles/v16/s123) *and a Physical Review Letters Editor's Suggestion*
 
-#### **2. Graph Theoretical Representations of Structure**
-*Accelerating Property Evaluation by Combining Scales of Geometry*
+### **Catalytically-mediated Hydrogen Transfers from Water**
+<img src="./assets/imgs/thermoframe.png" width="800px">
 
-Much of the mathematics developed in my PhD that describe the standard reduction potentials of metal oxides will be translated to describe the standard reduction potentials of proteins.
-Although strong similarities remain, there are interesting differences that will provide rich areas of development.
-For example, the global connectivity is currently build on *atom-to-atom* interactions.
-Due to the size of proteins, we expect to recast the definition of global and local connectivities to consider *residue-to-residue* interactions.
+##### ***Designing Systems to Integrate an Electrochemical Activation with a Thermochemical Reaction***
 
-#### **3. Electrochemical Process Engineering**
-*Designing Systems to Integrate a Electrochemical Activation with a Thermochemical Reaction*
-
+[**Miu, EV**. (2023). *Metal Oxides for Hydrogen Activation and Sustainable Chemical Conversions: Chapter 5 - Activating Hydrogen Equivalents from Water and Delivering Them to Reactive Substrates* (Doctoral Dissertation, University of Pittsburgh).](http://d-scholarship.pitt.edu/45068/)
