@@ -3,8 +3,8 @@ permalink: /research
 layout: page
 title: Research
 ---
+<img src="./assets/imgs/textbooks.png" width="800px">
 
-#### **Overview**
 My research interests lie at the intersection of experimental electrochemistry, biology, catalysis, and applied mathematics.
 Taking a wholly interdisciplinary approach to science, I have found that the synthesis of multiple, competing perspectives often leads to the most compelling solutions to difficult technical problems.
 In this spirit, my research makes an intentional effort to unify quantitative theory and modeling with rigorous experimentation.
