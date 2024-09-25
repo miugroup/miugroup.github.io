@@ -10,10 +10,10 @@ Through a multi-scale approach, we focus on enabling microbes and biomolecules a
 
 <br/>
 
-#### **Engineering Protein Electrochemistry** 
+### Engineering Protein Electrochemistry
 <img src="./assets/imgs/fesprot.png" width="800px">
 
-##### **By tuning protein electrochemistry, we can build molecular links between electrodes and cells**
+#### *By tuning protein electrochemistry, we can build molecular links between electrodes and cells*
 
 Our first research direction aims to engineer the electrochemical properties of proteins.
 These bio-macromolecules perform catalytic reactions central to metabolism, help maintain cell health, enable cell-to-cell communication, movement, and more.
@@ -24,10 +24,10 @@ This potential dependence---or, this ***electrochemical sensitivity***---is key 
 
 <br/>
 
-#### **Programming Gene Expression**
+### Programming Gene Expression
 <img src="./assets/imgs/programming.png" width="800px">
 
-##### **By assembling electrochemically sensitive gene circuits, we can ask cells to respond to electrochemical signals**
+#### *By assembling electrochemically sensitive gene circuits, we can ask cells to respond to electrochemical signals*
 
 Building up from the molecular-scale, our second research direction will be concerned with cellular-scale behavior.
 The engineering of individual proteins will allow us to directly address gene expression, however, we need to couple the expression of multiple proteins together in order to achieve macroscale functionality.
@@ -37,10 +37,10 @@ Our efforts at this cellular level aim to engineer ***electrode-dependent cell b
 
 <br/>
 
-#### **Electrifying Reactive Bio-Systems**
+### Electrifying Reactive Bio-Systems
 <img src="./assets/imgs/reactor.png" width="800px">
 
-##### **By injecting renewable electricity, we can drive biocatalysis and metabolism**
+#### *By injecting renewable electricity, we can drive biocatalysis and metabolism*
 
 Our third direction will pursue the electrification of biological reactions, with the intent of using renewable electricity as an inexpensive and abundant source of energy.
 The focus here is on reactor-, device-, and process-scales.
