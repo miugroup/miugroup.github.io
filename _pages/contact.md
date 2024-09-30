@@ -1,7 +1,7 @@
 ---
-permalink: /contact-us
+permalink: /contact
 layout: page
-title: Contact Us
+title: Contact
 ---
 
 Please feel free to reach out to Evan with any questions!

@@ -8,18 +8,18 @@ title: People
 
 ### **Evan V. Miu**
 
-#### **Degrees**
+#### **Academic Appointments**
 **B.S. in Chemical Engineering with Honors**, Bucknell University, 2016
 
 **Ph.D. in Chemical Engineering**, University of PIttsburgh, 2023
 
+**Postdoctoral Scholar**, California Institute of Technology, 2023-
+
 #### **Professional Appointments**
 **Chemical Engineer**, BASF Professional Development Program, 2016-2018
 
-**Postdoctoral Scholar**, California Institute of Technology, 2023-
-
 Evan completed his B.S. in Chemical Engineering at Bucknell University in 2016.
-At Bucknell, he worked in the lab of Katsuyuki Wakabayashi, where he developed high temperature and cryogenic methods of recycling post-consumer polymers.
+At Bucknell, he worked in the lab of Katsuyuki Wakabayashi, where he developed melt- and solid-state methods of recycling post-consumer polymers.
 Evan then joined BASF Corporation's Professional Development Program, a 2-year rotational program.
 Through three rotations, he held positions in technical service engineering (Houston, TX), capital project management (Newport, DE), and catalysis R&D (Iselin, NJ).
 After BASF, Evan began his PhD at the University of Pittsburgh in August 2018 where he joined the groups of James R. McKone and Giannis Mpourmpakis.
