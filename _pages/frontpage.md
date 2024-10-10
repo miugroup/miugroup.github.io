@@ -4,6 +4,17 @@ layout: home
 title: Home
 list_title: News
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0NCRGW35RR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0NCRGW35RR');
+</script>
+
 <img src="./assets/imgs/overview.png" width="800px">
 
 Welcome to the home of the (future) Miu Group! For an overview of research interests, please see the [Research](research) page. For future planned research activities, please see the [Future Research](future-research) page. Previously published work can be found [here](https://scholar.google.com/citations?user=lvfsM9wAAAAJ&hl=en).

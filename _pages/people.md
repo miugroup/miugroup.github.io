@@ -4,6 +4,16 @@ layout: page
 title: People
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0NCRGW35RR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0NCRGW35RR');
+</script>
+
 <img src="./assets/imgs/centered_headshot.jpg" alt="description" style="width: 250px; height: auto; margin-right: 20px;">
 
 ### **Evan V. Miu**
