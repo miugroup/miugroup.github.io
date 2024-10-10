@@ -3,6 +3,17 @@ permalink: /research
 layout: page
 title: Research
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0NCRGW35RR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0NCRGW35RR');
+</script>
+
 <img src="./assets/imgs/textbooks.png" width="800px">
 
 My research interests lie at the intersection of experimental electrochemistry, biology, catalysis, and applied mathematics.

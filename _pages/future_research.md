@@ -4,6 +4,16 @@ layout: page
 title: Future Research
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0NCRGW35RR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0NCRGW35RR');
+</script>
+
 The Miu Group will be generally interested in exploring the electrochemical sensitivity of reactive systems.
 With a particular interest in the cross section of electrochemistry and biology---from proteins, through cells, to devices---we will aim to interrogate and engineer molecular mechanisms that allow us to program biological activity through the delivery of electrochemical signals.
 Through a multi-scale approach, we focus on enabling microbes and biomolecules as electroactive materials for a sustainable and equitable future in industry, therapeutics, and resource conservation.
