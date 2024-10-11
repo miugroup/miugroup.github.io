@@ -63,5 +63,5 @@ We envision this as a platform which could yield solutions to issues in sustaina
 
 ***
 <small>
-*To see a description of the research background that will propel us into this work, please see the [Research](research) page. If you would like to learn more, please reach out! ([Contact Us](contact-us))*
+*To see a description of the research background that will propel us into this work, please see the [Research](research) page. If you would like to learn more, please reach out! ([Contact](contact))*
 </small>

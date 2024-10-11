@@ -28,6 +28,7 @@ title: People
 #### **Professional Appointments**
 **Chemical Engineer**, BASF Professional Development Program, 2016-2018
 
+#### Bio
 Evan completed his B.S. in Chemical Engineering at Bucknell University in 2016.
 At Bucknell, he worked in the lab of Katsuyuki Wakabayashi, where he developed melt- and solid-state methods of recycling post-consumer polymers.
 Evan then joined BASF Corporation's Professional Development Program, a 2-year rotational program.
