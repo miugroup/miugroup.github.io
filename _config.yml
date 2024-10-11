@@ -20,7 +20,6 @@ header_pages:
   - _pages/people.md
   - _pages/future_research.md
   - _pages/research.md
-  - _pages/news.md
   - _pages/contact.md
 
 include:
